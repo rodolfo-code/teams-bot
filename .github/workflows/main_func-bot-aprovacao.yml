@@ -60,4 +60,4 @@ jobs:
           app-name: 'func-bot-aprovacao'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60826A27E4F14C9F895CC8C01002A2B3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AB17E5DF2C1B4C9182E2020376E411BD }}
